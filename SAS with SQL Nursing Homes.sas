@@ -5,7 +5,7 @@
 * Date: February 25, 2019           *
 *                                   *
 * Authors: Marshal Will, 
-*     Mikolak Wieczorek 
+*     Mikolaj Wieczorek 
 ************************************/
 
 /** FOR CSV Files uploaded from Windows **/

@@ -1,10 +1,11 @@
 /************************************
-* Name: SAS Code to read 		    *
+* Name: SAS Code to read 		    
 *     the SQL programming language. *
 *                                   *
 * Date: February 25, 2019           *
 *                                   *
-* Author: Marshal Will              *
+* Authors: Marshal Will, 
+*     Mikolak Wieczorek 
 ************************************/
 
 /** FOR CSV Files uploaded from Windows **/
